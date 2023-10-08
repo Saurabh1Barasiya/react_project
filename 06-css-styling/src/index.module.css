@@ -1,0 +1,16 @@
+.myclass{
+    font-size: xx-large;   
+    font-weight: 800;
+    background-color: blueviolet;
+    color: azure;
+    height: 100px;
+    cursor: pointer;
+}
+#myid{
+    font-size: xx-large;   
+    font-weight: 800;
+    background-color: rgb(24, 206, 234);
+    color: azure;
+    height: 100px;
+    cursor: pointer;
+}
